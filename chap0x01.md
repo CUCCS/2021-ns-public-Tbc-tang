@@ -192,8 +192,8 @@ sudo tcpdump -i enp0s9 -n
 
 #### 参考链接
 
-[2020-ns-public-shiancuc/blob/ns_chap0x01]: https://github.com/CUCCS/2020-ns-public-shiancuc/blob/ns_chap0x01/ns_chap0x01/ns_chap0x01_report.md
-[ 为debian系统创建新root权限用户 ]: https://www.jianshu.com/p/a60340df9004?utm_campaign=
-[在debian设置ssh]: https://blog.csdn.net/jeikerxiao/article/details/84105529
-[ssh: connect to host localhost port 22: Connection refused 问题]: https://blog.csdn.net/jszhangyili/article/details/8881807
+[2020-ns-public-shiancuc/blob/ns_chap0x01](https://github.com/CUCCS/2020-ns-public-shiancuc/blob/ns_chap0x01/ns_chap0x01/ns_chap0x01_report.md)
+[为debian系统创建新root权限用户](https://www.jianshu.com/p/a60340df9004?utm_campaign=)
+[在debian设置ssh](https://blog.csdn.net/jeikerxiao/article/details/84105529)
+[ssh: connect to host localhost port 22: Connection refused 问题](https://blog.csdn.net/jszhangyili/article/details/8881807)
 
